@@ -1,5 +1,5 @@
 import "./styles.css";
-console.log("おっぱい");
+console.log("お");
 
 document.getElementById("app").innerHTML = `
 <h1>Hello Vanilla!</h1>
